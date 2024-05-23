@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Former iOS Intern @Infosys | Former Machine Learning Research Intern @IIT Madras | Leetcode (1820) | Full-Stack Developer | Pre-final year CSE Student at SRM KTR<br><br>👨‍💻 I regularly code on Leetcode https://leetcode.com/u/kadtanvarad/<br><br>📝 I regularly write articles on https://www.linkedin.com/in/varadkadtan/<br><br>📫 How to reach me kadtanvarad@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1QI5xrCPcWBMkIK7XfvpExTgeGoYRgLIf/view?usp=sharing
+Former iOS Intern @Infosys | Former Machine Learning Research Intern @IIT Madras | Leetcode (1820) | Full-Stack Developer | Pre-final year CSE Student at SRM KTR<br><br>👨‍💻 I regularly code on Leetcode https://leetcode.com/u/kadtanvarad/<br><br>📝 I regularly write articles on https://www.linkedin.com/in/varadkadtan/<br><br>📫 How to reach me kadtanvarad@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1QI5xrCPcWBMkIK7XfvpExTgeGoYRgLIf/view?usp=sharing
 
 
 ## 🌐 Socials:
